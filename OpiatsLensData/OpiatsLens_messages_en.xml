@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+  <data name="en_project_author_name"><![CDATA[OPIATS]]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.opiats.io]]></data>
+
+
+  <data name="en_panogroup34_title"><![CDATA[Shangri-La]]></data>
+
+  <data name="en_pano33_title"><![CDATA[Living Room]]></data>
+  <data name="en_pano37_title"><![CDATA[Living Room Gateway]]></data>
+  <data name="en_pano39_title"><![CDATA[Kitchen]]></data>
+  <data name="en_pano41_title"><![CDATA[TV Room]]></data>
+  <data name="en_pano43_title"><![CDATA[Main Hall]]></data>
+  <data name="en_pano45_title"><![CDATA[Front Door]]></data>
+  <data name="en_pano47_title"><![CDATA[Bedroom Gateway]]></data>
+  <data name="en_pano49_title"><![CDATA[Guest Bedroom]]></data>
+  <data name="en_pano51_title"><![CDATA[Main Bedroom]]></data>
+  <data name="en_pano53_title"><![CDATA[Bathroom]]></data>
+  <data name="en_pano55_title"><![CDATA[Closet]]></data>
+  <data name="en_pano35_title"><![CDATA[TV]]></data>
+
+  <data name="en_panogroup83_title"><![CDATA[Pool Room]]></data>
+
+  <data name="en_pano82_title"><![CDATA[Pool Room]]></data>
+
+  <data name="en_panogroup79_title"><![CDATA[Industrial Area]]></data>
+
+  <data name="en_pano78_title"><![CDATA[Industrial Area]]></data>
+
+  <data name="en_panogroup81_title"><![CDATA[Neighborhood]]></data>
+
+  <data name="en_pano80_title"><![CDATA[Neighborhood]]></data>
+
+  <data name="en_panogroup85_title"><![CDATA[Wood Loft]]></data>
+
+  <data name="en_pano84_title"><![CDATA[Wood Loft]]></data>
+
+  <data name="en_panogroup87_title"><![CDATA[Sun Room]]></data>
+
+  <data name="en_pano86_title"><![CDATA[White Room]]></data>
+
+  <data name="en_panogroup63_title"><![CDATA[Farnsworth House]]></data>
+
+  <data name="en_pano62_title"><![CDATA[Main]]></data>
+  <data name="en_pano64_title"><![CDATA[Stairs]]></data>
+  <data name="en_pano66_title"><![CDATA[Front Field]]></data>
+  <data name="en_pano68_title"><![CDATA[Mid Field]]></data>
+  <data name="en_pano70_title"><![CDATA[Far Right Field]]></data>
+  <data name="en_pano72_title"><![CDATA[Back Middle]]></data>
+
+
+
+
+
+	<data name="en_panogroup34_floor_title"><![CDATA[Shangri-La]]></data>
+
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_buttontooltip"><![CDATA[Play OPIATS trailer]]></data>
+  <data name="en_button1tooltip"><![CDATA[Go To Our Site]]></data>
+  <data name="en_button1openurlwebsiteurl"><![CDATA[http://www.opiats.io]]></data>
+  <data name="en_button2tooltip"><![CDATA[Get In Touch!]]></data>
+  <data name="en_button2openurlwebsiteurl"><![CDATA[mailto:info@opiats.io]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
